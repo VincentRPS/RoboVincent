@@ -1,2 +1,3 @@
+aiohttp
 git+https://github.com/RPD-py/RPD
 python-dotenv
