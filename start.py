@@ -9,9 +9,6 @@ dotenv.load_dotenv()
 
 bot = BotApp(token=os.getenv("token"), intents=32767)
 
-"""async def add():
-    await bot.change_presence("h", 0)"""
-
 if bot.state._ready.is_set() is True:
     print("Bot is ready!")
 
