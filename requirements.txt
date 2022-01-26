@@ -1,3 +1,3 @@
 aiohttp
-git+https://github.com/RPD-py/RPD
+git+https://github.com/RPD-py/RPD#egg-info
 python-dotenv
